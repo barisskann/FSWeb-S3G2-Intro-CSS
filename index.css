@@ -1,0 +1,77 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Chelsea Market', cursive;
+    
+}
+.nav{
+    display: flex;
+    justify-content:space-evenly;
+    margin-top: 0.4rem;
+}
+.input{
+    padding: 0.2rem   1.8rem;
+    border-radius: 0.3rem;
+    border: none;
+    color: white;
+}
+.input1{
+background-color: #FF764E;
+}
+.input2{
+    background-color: #5ED3EB;
+}
+.input3{
+    background-color: #FFCD69;
+}
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between  ;
+    position: relative;
+    max-width: 80%;
+    margin: auto;
+    margin-top: 5rem;
+}
+.header-img{
+    border-radius: 999rem;
+    width: 20%;
+    height: 35vh;
+}
+.text{
+    margin: auto;
+    margin-top: 0%;
+}
+.section{
+    width: 80%;
+    margin: auto;
+    background-color: #DDB9A3;
+    color: white;
+    text-align: center;
+}
+.title{
+font-family: 'Chelsea Market', cursive;}
+.main-item{
+    width: 20%;
+    margin: auto;
+    text-align: center;
+    margin-top: 1.5rem;
+}
+.img-item{
+    width: 25%;
+}
+.footer-img{
+    height: 40vh;
+    width: 100%;
+}
+.footer-color{
+    background: #F9E7DC;
+    margin-top: 5rem;
+}
+.footer-item{
+    padding: 0.6rem;
+}
+.footer-item_edit{
+    margin-bottom: 1rem;
+}
